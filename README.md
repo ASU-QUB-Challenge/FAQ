@@ -1,7 +1,7 @@
 # FAQ
 Frequently Asked Questions
 
-Please utilize this repository's Wiki - https://github.com/ASU-QUB-Challenge/FAQ/wiki - to submit questions and check for answers.  If you don't find an answer to your question, add it to the wiki and we will get it answered within 24 hours.
+Please utilize this repository's Wiki - https://github.com/ASU-QUB-Challenge/FAQ/wiki - to check for answers to frequently asked questions.  
 
 Two Sample Knowledgebase articles are included in this repository, as well as an example of a simple Chat Bot that responds with "Not Implemented" for each question or comment entered.  
 
